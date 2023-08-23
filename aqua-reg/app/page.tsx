@@ -6,7 +6,7 @@ import TRITabs from '@components/tri-tabs';
 
 
 export const metadata: Metadata = {
-  title: 'AquaReg test task',
+  title: ' test task',
 };
 
 export default function Home() {
